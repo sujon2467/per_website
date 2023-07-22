@@ -1,0 +1,316 @@
+
+body{
+    background-color: whitesmoke;
+}
+
+#navbarNav{
+    justify-content: center;
+}
+#Nav-Edit{
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(33 179 165 / 92%));
+    padding-bottom: 10px;
+}
+.icon{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.icon-item a{
+    padding: 0px 24px 0px 0px;
+    font-size: 22px;
+    color: #F85606;
+}
+
+.side_bar_edit{
+    margin-right: 200px;
+}
+.change_content_1 {
+    width: 300px;
+    background-color: #0E6655;
+    color:#fff;
+    height: 100vh;
+    float: left;
+    position: fixed;
+    margin: 58px 0px 0px 0px;
+    padding: 41px 0px 10px 24px;
+  
+}
+.change_content_1 img {
+    width: 150px;
+    box-shadow: lightblue 11px 11px 26px;
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(21, 248, 6);
+    border-image: initial;
+}
+.change_content_1 p {
+    line-height: 25px;
+    padding: 10px;
+    margin: -6px 0px 0px -26px;
+    text-shadow: -1px 0px 1px;
+    font-size: 13px;
+}
+.change_content_1 h3{
+    line-height: 30px;
+    padding: 19px 0px 0px 0px;
+    text-shadow: 3px 0px 1px;
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.change_content_2{
+    width: 1000px;
+    float:right;
+   
+        margin: 58px 17px 0px 93px;
+    
+}
+/*service section*/
+.service-header{
+    margin: 86px 0px 0px 0px;
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(0 82 82 / 90%));
+    padding:8%;
+    border-radius: 5px;
+}
+.services {
+    margin: -91px 0px 0px 0px;
+    padding: 0px 36px 0px 36px;
+    
+
+}
+
+.service-header h1{
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 30px;
+    
+
+}
+.service-header p{
+    color:#fff;
+}
+.ser-btn button{
+    width: 100%;
+}
+
+.single-service{
+     background-color: #000;
+     color:#fff;
+     padding: 18px;
+     border-radius: 20px;
+     margin: 30px 0px 0px 0px;
+}
+.service_details {
+    text-align: center;
+    font-size: 14px;
+}
+
+#service_icon{
+    color:#F85606;
+    font-size: 50px;
+    
+    padding: 7px 10px 22px 10px;
+}
+
+/*compnay*/
+.compnay-content{
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(0 82 82 / 90%));
+    text-align: center;
+    padding: 5%;
+    margin: 54px 0px 0px 0px;
+    border-radius: 5px;
+    
+   
+
+}
+#walltouch_logo{
+    width: 400px ;
+    
+}
+
+
+#walltouch_logo {
+    width: 289px;
+    border-radius: 63%;
+    /* border: 5px solid #000; */
+    /* margin: 0px 0px 0px 0px; */
+    /* box-shadow: 14px 9px 19px lightblue; */
+    box-shadow: 10px 10px 14px grey;
+}
+div#company_info {
+    margin: 103px 0px 0px 0px;
+    
+}
+div#wall-des {
+    margin: 24px 0px 0px 0px;
+   
+}
+#wall-des h3{
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+div#wall-des {
+    font-size: 14px;
+    text-shadow: 4px 4px 10px grey;
+}
+/*Team*/
+
+.team-content {
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(0 82 82 / 90%));
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    border-radius: 69px 0px 69px 0px;
+    padding: 10px;
+    line-height: 35px;
+    padding: 21px 0px 3px 0px;
+    
+}
+.compnay-content h1 {
+    font-size: 27px;
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#team-edit{
+     margin-top:100px;
+}
+#team-edit h1{
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#for_team{
+    display: inline-flex;
+}
+p.card-text {
+    color: #fff;
+}
+h5.card-title {
+    color: #fff;
+}
+
+.single_team {
+    margin: 77px 18px 0px 0px;
+}
+.card img {
+    height: 203px;
+}
+
+/*skill section*/
+
+.single-skill {
+    margin: 38px 85px 0px 60px;
+}
+.single-skill p{
+    color: #F85606;
+    font-size: 15px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.skill-section {
+    margin: 95px 0px 0px 0px;
+}
+.myskill {
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(0 82 82 / 90%));
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    border-radius: 0px 122px 0px 110px;
+    padding: 10px;
+    line-height: 35px;
+    padding: 21px 0px 3px 0px;
+}
+.myskill h1{
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#team-skill{
+    margin-top:100px;
+
+}
+
+
+
+.satisfaction {
+    background: #0E6655;
+    padding: 5%;
+    margin: 63px 0px 0px 0px;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    border-radius: 5px;
+}
+
+.single-satis {
+    padding: 19px 0px 0px 0px;
+    color: #fff;
+}
+
+/*Contact with us*/
+.contact-dis{
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(0 82 82 / 90%));
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    border-radius: 0px 122px 0px 110px;
+    padding: 10px;
+    line-height: 35px;
+    padding: 21px 0px 3px 0px;
+
+}
+.cont_form {
+    background-color: wheat;
+    padding: 5%;
+    border-radius: 5px;
+}
+#con_edt{
+    margin-top:100px;
+
+}
+#con_edt h1{
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.single-data {
+    margin: 30px 45px 0px 0px;
+}
+.contact_mainting {
+    margin: 65px 0px 0px 50px;
+}
+.btn {
+    margin: 14px 0px 0px 0px;
+}
+div#send_btn {
+    padding: 0px 0px 49px 0px;
+}
+.map iframe{
+    border:2px solid gray;
+    width:100%;
+    height: 400px;
+}
+
+/*plate-form */
+.plate_form {
+    
+    padding: 5%;
+    margin: 100px 0px 0px 0px;
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));
+    border-radius: 5px;
+}
+.plate_dis {
+    text-align: center;
+    padding: 0px 0px 72px 0px;
+    color: gray;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    line-height: 12px;
+}
+.work-area.d-flex.justify-content-evenly {
+    padding: 0px 0px 74px 10px;
+}
+/*footer section*/
+.fotter-section {
+    margin: 60px 0px 0px 0px;
+    background: black;
+    color: #fff;
+    padding: 60px 0px 50px 20px;
+}
+div#fst_name {
+    padding: 0px 0px 19px 8px;
+}
